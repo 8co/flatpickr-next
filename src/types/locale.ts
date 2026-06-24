@@ -162,6 +162,7 @@ export type key =
   | "nb"
   | "nn"
   | "no"
+  | "oc"
   | "pa"
   | "pl"
   | "pt"
