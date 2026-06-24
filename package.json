@@ -1,6 +1,6 @@
 {
   "name": "flatpickr-next",
-  "version": "4.6.14",
+  "version": "4.6.15",
   "description": "A lightweight, powerful javascript datetime picker — actively maintained fork of flatpickr",
   "scripts": {
     "build": "run-s build:pre build:build build:esm build:types build:post",
@@ -64,7 +64,7 @@
   "bugs": {
     "url": "https://github.com/chmln/flatpickr/issues"
   },
-  "homepage": "https://flatpickr.js.org",
+  "homepage": "https://github.com/8co/flatpickr-next",
   "keywords": [
     "javascript",
     "datetimepicker",
