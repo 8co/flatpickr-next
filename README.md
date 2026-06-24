@@ -1,10 +1,17 @@
-## flatpickr - javascript datetime picker
-[![Actions Status](https://github.com/flatpickr/flatpickr/workflows/GitHub%20Actions/badge.svg)](https://github.com/flatpickr/flatpickr/actions)
+## flatpickr-next — actively maintained fork of flatpickr
 
-[![Coverage](https://coveralls.io/repos/github/chmln/flatpickr/badge.svg?branch=master)](https://coveralls.io/github/chmln/flatpickr)
-[![npm version](https://badge.fury.io/js/flatpickr.svg)](https://www.npmjs.com/package/flatpickr)
-[![CDNJS](https://img.shields.io/cdnjs/v/flatpickr.svg)](https://cdnjs.com/libraries/flatpickr)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/flatpickr/flatpickr/master/LICENSE.md)
+[![npm version](https://badge.fury.io/js/flatpickr-next.svg)](https://www.npmjs.com/package/flatpickr-next)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/8co/flatpickr-next/master/LICENSE.md)
+
+> **[flatpickr](https://github.com/flatpickr/flatpickr) has been unmaintained since 2022.** This fork picks up where it left off — merging community PRs, fixing bugs, and keeping the library current. Drop-in replacement: swap `flatpickr` for `flatpickr-next` in your `package.json`.
+
+```bash
+npm install flatpickr-next
+# or
+yarn add flatpickr-next
+```
+
+Original authors: Salmen Bejaoui and contributors — MIT License.
 
 
 ![blue](https://cloud.githubusercontent.com/assets/11352152/14549371/3cbb65da-028d-11e6-976d-a6f63f32061f.PNG)
