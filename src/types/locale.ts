@@ -170,6 +170,7 @@ export type key =
   | "sq"
   | "sr"
   | "sv"
+  | "tj"
   | "th"
   | "tr"
   | "uk"
